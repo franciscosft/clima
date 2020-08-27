@@ -1,3 +1,5 @@
+.flutter-plugins-dependencies
+
 # Miscellaneous
 *.class
 *.log
@@ -53,6 +55,8 @@
 **/ios/**/profile
 **/ios/**/xcuserdata
 **/ios/.generated/
+ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/flutter_export_environment.sh
 **/ios/Flutter/App.framework
 **/ios/Flutter/Flutter.framework
 **/ios/Flutter/Generated.xcconfig
